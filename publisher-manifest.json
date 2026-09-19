@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "aad7dc22b9c8e3a7237b2d89",
+  "owner": "unhhgtjt",
+  "repo": "page-30c21cc68656298e8b440829",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "30c21cc68656298e8b440829",
+      "a": "比奇堡",
+      "b": "clash verge下载",
+      "entity": "比奇堡",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1faeeefb61f5978594798f616e0fa39ae8c7cece9e083d9a393e786ceaf5ccb7",
+      "content": {
+        "primary_entity": "比奇堡",
+        "keyword1": "比奇堡",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Linux、Android、iOS 都有对应的客户端可选，按系统挑合适的即可。",
+          "AI_CLIENTS_TITLE": "客户端按设备来选",
+          "AI_CLOSING_TEXT": "先挑贴合常用设备的套餐，再按客户端文档把订阅配置好就能用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上比奇堡",
+          "AI_DESCRIPTION": "，比奇堡提供按月与按年两种计费方式，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB 流量、支持 5 台设备并带有 IPLC 专线游戏加速优化，团队版每月 1000GB 流量、最多 20 台设备在线。不同套餐在节点池、流媒体解锁与工单响应上各有侧重，按自己的设备数量和使用场景对比即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个方面对比，很快就能找到合适的档位。",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量挑。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台到 20 台设备上限，手机、平板和电脑数量决定档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 150 元，旗舰版年付 350 元。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成比奇堡的初次使用。",
+          "AI_GUIDE_TITLE": "上手比奇堡三步",
+          "AI_HERO_INTRO": "比奇堡为国内用户提供多条线路的海外加速服务，套餐按月或按年计费，覆盖 3 台到 20 台设备的在线需求，并针对游戏与流媒体场景做了线路优化。",
+          "AI_HERO_SUBTITLE": "选好套餐，连上比奇堡",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 台至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版带 IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与设备数，团队版面向多设备与高带宽需求。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量需求、常用设备数量和预算，从基础版、旗舰版、团队版中挑一档。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_2": "确认常用设备系统，检查套餐在线设备数是否够用，再准备安装对应客户端。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档导入订阅信息，完成后即可切换线路使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "比奇堡，选对套餐再上路",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐升级与付费周期。",
+          "AI_FAQ_QUESTION_1": "比奇堡套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以，在账户内选择更高版本套餐，补足差价后新版本权益即时生效，剩余周期按比例折算。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数超限会怎样？",
+          "AI_FAQ_ANSWER_2": "超出套餐上限时，新设备可能无法连接，需先下线已有设备或升级到支持更多设备的版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能与节点相同，年付价格更低。基础版年付150元、旗舰版350元、团队版850元，按月订阅则分别15元、35元和85元。",
+          "AI_FAQ_QUESTION_4": "订阅导入后连不上怎么办？",
+          "AI_FAQ_ANSWER_4": "先检查订阅是否过期，再确认客户端版本与节点选择是否正确，可尝试切换节点或重新导入订阅。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，并提供VIP高带宽节点与定制路由，适合小型团队多设备协作。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "93d38f58b817185025b0afe42056c8f484dd5f9d3d3ffd3759780435b7e9f0c7",
+    "sitemap.xml": "edf3668690b7f8d5f057fc87aceac832ba48ac6b4bb411a21b997b2405a8268b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cbec1032189b14215c365bf3960354e379a039ef2c7f4594285ef1a66e2d1510"
+}
